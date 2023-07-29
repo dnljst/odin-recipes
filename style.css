@@ -1,0 +1,15 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: orange;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+    background-color: orange;
+    text-align: center;
+}
